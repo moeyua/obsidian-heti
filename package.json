@@ -1,7 +1,7 @@
 {
 	"name": "obsidian-heti",
 	"version": "1.0.0",
-	"description": "This is a heti plugin for Obsidian (https://obsidian.md)",
+	"description": "This is a heti plugin for Obsidian",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
